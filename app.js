@@ -10,3 +10,4 @@ whatsappButton.style.transform = 'scale(0)';
 setTimeout(() => {
   whatsappButton.style.transform = 'scale(1)';
 }, 1000);
+
