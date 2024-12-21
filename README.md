@@ -1,7 +1,6 @@
-# Mao Ink Tattoo portfolio
+# Mao Ink Tattoo Portfolio
+![App Screenshot](https://github.com/LuissFrank/Mao-Ink-Tattoo/blob/dd448cbcf0536993b4ec2382acda8c0bc8c83cc3/images/logo-blanco.jpg)
 
-Esta es una página web sencilla creada con HTML, CSS y un poco de JavaScript, utilizando la biblioteca de animación AOS.
-La pagina esta desplegada en Netlify
 
 ## Descripción 
 
